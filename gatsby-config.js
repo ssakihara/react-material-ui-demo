@@ -1,10 +1,11 @@
 /* eslint-disable */
 module.exports = {
+  pathPrefix: `react-material-ui-demo`,
   siteMetadata: {
     title: `Demo`,
     description: `Description`,
     author: `@sshinnosuke0524`,
-    lang: 'ja'
+    lang: 'ja',
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
@@ -26,7 +27,7 @@ module.exports = {
         background_color: `#663399`,
         theme_color: `#663399`,
         display: `minimal-ui`,
-        icon: `src/images/example.png`
+        icon: `src/images/example.png`,
       },
     },
     // this (optional) plugin enables Progressive Web App + Offline functionality
