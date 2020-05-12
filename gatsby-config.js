@@ -1,6 +1,6 @@
 /* eslint-disable */
 module.exports = {
-  pathPrefix: `react-material-ui-demo`,
+  pathPrefix: `/react-material-ui-demo`,
   siteMetadata: {
     title: `Demo`,
     description: `Description`,
