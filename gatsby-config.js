@@ -1,7 +1,7 @@
 /* eslint-disable */
 module.exports = {
   siteMetadata: {
-    title: `Title`,
+    title: `Demo`,
     description: `Description`,
     author: `@sshinnosuke0524`,
     lang: 'ja'
